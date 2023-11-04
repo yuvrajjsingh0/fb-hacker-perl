@@ -3,12 +3,12 @@
 use strict;
 use Net::SSLeay::Handle;
 
-if(!defined($ARGV[0] && $ARGV[1])) {
+if(!defined($ARGV[0] && $ARGV[1])) { 
 
 system('clear');
 print "\n+++ [-]Fb hacker by Gohibo Technologies\n";
 print "+++ [-]Coded by Yuvraj Singh\n";
-print "+++ [-]www.facebook.com/yuvrajjsingh0\n\n";
+print "+++ [-]www.facebook.com/yuvrajjsingh0\n\n";  
 print "+++ [-]https://www.gohibotechnologies.com/\n\n";
 print "+++ [-]Usage: perl $0 login wordlist\n\n";
 exit; }
